@@ -12,6 +12,7 @@ def get_target_variable():
 
 def get_demographic_features():
     return [
+        "_STATE",
         "SEXVAR",
         "MARITAL",
         "EDUCA",
