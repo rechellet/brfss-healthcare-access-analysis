@@ -22,7 +22,7 @@ The unsupervised learning goal is to identify meaningful population-level health
 ## Dataset
 CDC BRFSS 2024 Annual Survey Data.
 
-Raw data files are not stored in this repository. Users should download the BRFSS .XPT file from the CDC website and place it in `data/raw/`.
+Raw data files are not stored in this repository. Users should download the BRFSS .XPT file from the CDC website and place it in a local data/raw/ directory.
 
 ## Project Structure
 
