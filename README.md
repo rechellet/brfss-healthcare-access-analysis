@@ -5,6 +5,12 @@ SIADS Milestone II Project
 University of Michigan Master of Applied Data Science
 Team 17: Rechelle Transeth, Braeden Mahnke, Indrayan Banerjee
 
+## Final Report
+
+The final written report is included in this repository as:
+
+**SIADS 696 Team 17 Final Report.pdf**
+
 ## Project Overview
 This project uses the 2024 CDC BRFSS dataset to predict healthcare access barriers and identify population health profiles.
 
