@@ -25,9 +25,10 @@ CDC BRFSS 2024 Annual Survey Data.
 Raw data files are not stored in this repository. Users should download the BRFSS .XPT file from the CDC website and place it in `data/raw/`.
 
 ## Project Structure
-- `data/raw/`: raw data files, not tracked by Git
-- `data/processed/`: cleaned data files, not tracked by Git
-- `notebooks/`: Jupyter notebooks for data loading, preprocessing, supervised learning, and unsupervised learning
-- `src/`: reusable scripts
-- `outputs/`: figures and model outputs
-- `docs/`: proposal, notes, and documentation
+
+- `notebooks/` — Jupyter notebooks for data loading, preprocessing, supervised learning, and unsupervised learning
+- `src/` — Reusable Python scripts
+- `SIADS 696 Team 17 Final Report.pdf` — Final written project report
+- `README.md` — Project overview and repository documentation
+- `requirements.txt` — Python package requirements
+- `.gitignore` — Git ignore configuration
