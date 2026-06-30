@@ -21,7 +21,7 @@ Raw data files are not stored in this repository. Users should download the BRFS
 ## Project Structure
 - `data/raw/`: raw data files, not tracked by Git
 - `data/processed/`: cleaned data files, not tracked by Git
-- `notebooks/`: exploratory notebooks
+- `notebooks/`: Jupyter notebooks for data loading, preprocessing, supervised learning, and unsupervised learning
 - `src/`: reusable scripts
 - `outputs/`: figures and model outputs
 - `docs/`: proposal, notes, and documentation
